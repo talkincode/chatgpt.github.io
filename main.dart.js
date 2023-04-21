@@ -21548,7 +21548,7 @@ var $async$JU=A.X(function(a5,a6){if(a5===1){o=a6
 s=p}while(true)switch(s){case 0:if(a4===""){q=new A.jg(1,"APIKey \u4e0d\u80fd\u4e3a\u7a7a",null)
 s=1
 break}p=4
-n="https://gptsms.teamsacs.cc:19780/api/app/apikey/auth"
+n="https://api.chatgpt.link365.com.cn:19780/api/app/apikey/auth"
 i=t.N
 s=7
 return A.a2(A.apa(null).aa3(n,A.av(["apikey",a4],i,i),t.z),$async$JU)
@@ -21615,7 +21615,7 @@ return A.V($async$JU,r)},
 JV(){var s=0,r=A.W(t.E6),q,p=2,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2
 var $async$JV=A.X(function(a3,a4){if(a3===1){o=a4
 s=p}while(true)switch(s){case 0:p=4
-n="https://gptsms.teamsacs.cc:19780/api/subscription/usage"
+n="https://api.chatgpt.link365.com.cn:19780/api/subscription/usage"
 i=t.z
 a=A
 a0=A
@@ -69433,7 +69433,7 @@ m.push(n)
 o.e=m
 A.apE(n)
 l=A
-k=A.lW("https://gptedge.teamsacs.cc:17980/chat/sse")
+k=A.lW("https://api.chatgpt.link365.com.cn:17980/chat/sse")
 s=3
 return A.a2(A.DL(),$async$pc)
 case 3:s=2
@@ -77086,7 +77086,7 @@ s($,"aKb","avP",()=>A.cg("\\\\(.)",!0))
 s($,"aKT","awb",()=>A.cg('[()<>@,;:"\\\\/\\[\\]?={} \\t\\x00-\\x1F\\x7F]',!0))
 s($,"aL6","awh",()=>A.cg("(?:"+$.avO().a+")*",!0))
 s($,"aGL","tN",()=>{var q=$.auc()
-q.b="https://gptsms.teamsacs.cc:19780"
+q.b="https://api.chatgpt.link365.com.cn:19780"
 return q})
 s($,"aH7","auc",()=>new A.VF(A.axZ()))
 s($,"aL1","awe",()=>A.av(["/chat",new A.ak4()],t.N,A.ak("jk(@{arguments:@})")))

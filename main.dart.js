@@ -24255,7 +24255,7 @@ rf(a){return A.alB(new A.rH("Paste is not implemented for this browser."),null,t
 A.ZA.prototype={
 gKk(){var s=this.b
 s=s==null?null:s.canvasKitBaseUrl
-return s==null?"./js/":s},
+return s==null?"./canvaskit/":s},
 gKl(){var s=this.b
 s=s==null?null:s.canvasKitForceCpuOnly
 return s===!0},
